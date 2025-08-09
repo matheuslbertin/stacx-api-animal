@@ -37,7 +37,7 @@ animal-api/
 1. Clone o repositório e navegue até o diretório do projeto:
 
 ```bash
-git clone <url-do-repositório>
+git clone https://github.com/matheuslbertin/stacx-api-animal.git
 cd animal-api
 ```
 
